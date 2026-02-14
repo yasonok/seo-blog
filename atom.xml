@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RYAN生活黑客</title>
+  <link href="https://seo-blog-lemon.vercel.app/" rel="alternate"/>
+  <link href="https://seo-blog-lemon.vercel.app/atom.xml" rel="self"/>
+  <id>https://seo-blog-lemon.vercel.app/</id>
+  <updated>2026-02-14T08:00:00.000Z</updated>
+  <author>
+    <name>Ryan Chiang</name>
+    <email>yasonok@gmail.com</email>
+  </author>
+  <subtitle>分享生活效率、科技產品、旅遊攻略的實用內容，用數據與真實體驗幫你做出更好的選擇</subtitle>
+  
+  <entry>
+    <title>溝通技巧完整指南 - 2026年用心理學方法提升人際關係與說服力</title>
+    <link href="https://seo-blog-lemon.vercel.app/2026/02/14/溝通技巧完整指南/"/>
+    <id>https://seo-blog-lemon.vercel.app/2026/02/14/溝通技巧完整指南/</id>
+    <updated>2026-02-14T08:00:00.000Z</updated>
+    <summary>掌握高效溝通技巧，從心理學角度提升人際關係與說服力。本指南涵蓋傾聽、表達、談判等核心能力。</summary>
+    <category term="溝通技巧"/>
+    <category term="人際關係"/>
+    <category term="心理學"/>
+  </entry>
+  
+  <entry>
+    <title>記憶力提升完整指南 - 2026年用科學方法增強你的學習與記憶能力</title>
+    <link href="https://seo-blog-lemon.vercel.app/2026/02/14/記憶力提升完整指南/"/>
+    <id>https://seo-blog-lemon.vercel.app/2026/02/14/記憶力提升完整指南/</id>
+    <updated>2026-02-14T08:00:00.000Z</updated>
+    <summary>運用科學證實的方法提升記憶力，包括間隔重複、記憶宮殿、主動回憶等技巧。</summary>
+    <category term="記憶力"/>
+    <category term="學習"/>
+    <category term="自我提升"/>
+  </entry>
+  
+  <entry>
+    <title>談判心理學完整指南 - 2026年用科學方法在各種場合達成最佳協議</title>
+    <link href="https://seo-blog-lemon.vercel.app/2026/02/14/談判心理學完整指南/"/>
+    <id>https://seo-blog-lemon.vercel.app/2026/02/14/談判心理學完整指南/</id>
+    <updated>2026-02-14T08:00:00.000Z</updated>
+    <summary>深入理解談判心理學，運用科學策略在商務談判、購物、職場等各種場合達成最佳協議。</summary>
+    <category term="談判"/>
+    <category term="心理學"/>
+    <category term="商務技巧"/>
+  </entry>
+</feed>
